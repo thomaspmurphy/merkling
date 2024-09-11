@@ -16,4 +16,4 @@ A Merkle Tree is a binary tree of hashes, where each leaf node contains the hash
 ## Dependencies
 
 This project uses the following external crate:
-sha2: For SHA-256 hashing
+- `sha2` (for SHA-256 hashing)
